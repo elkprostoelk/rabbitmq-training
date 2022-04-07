@@ -1,0 +1,2 @@
+# rabbitmq-training
+RabbitMQ tasks
