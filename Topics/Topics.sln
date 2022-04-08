@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topics.Sender", "Topics.Sender\Topics.Sender.csproj", "{2E4B3DAD-789F-40E2-904C-F317E839B64F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topics.Receiver", "Topics.Receiver\Topics.Receiver.csproj", "{BBF0F2BA-682E-445A-BDA9-846BEA92A9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4B3DAD-789F-40E2-904C-F317E839B64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4B3DAD-789F-40E2-904C-F317E839B64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4B3DAD-789F-40E2-904C-F317E839B64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4B3DAD-789F-40E2-904C-F317E839B64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF0F2BA-682E-445A-BDA9-846BEA92A9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF0F2BA-682E-445A-BDA9-846BEA92A9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF0F2BA-682E-445A-BDA9-846BEA92A9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF0F2BA-682E-445A-BDA9-846BEA92A9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
